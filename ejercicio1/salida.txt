@@ -1,0 +1,7 @@
+NOTAS DEL CURSO
+Ana : 8.0 Aprobado
+Luis : 6.0 Supletorio
+Maria : 4.0 Reprobado
+Pedro : 9.0 Aprobado
+Sofia : 7.0 Aprobado
+Cantidad de estudiantes que aprobaron: 3
