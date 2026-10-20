@@ -1,0 +1,7 @@
+MASCOTAS
+Firulais : Perro : 25.5 Revisar peso
+Michi : Gato : 4.2
+Rocky : Perro : 12.0
+
+Edad de m1 antes: 5
+Edad de m1 despues: 6
