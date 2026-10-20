@@ -1,0 +1,11 @@
+LIBROS
+Don Quijote : Prestado
+El Principito : Prestado
+Rayuela : Prestado
+Ficciones : Disponible
+
+SOCIOS
+Maria : 2
+Juan : 1
+
+Libros disponibles: 1
