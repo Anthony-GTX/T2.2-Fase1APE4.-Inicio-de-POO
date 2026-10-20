@@ -1,0 +1,15 @@
+CUENTA DE Carlos
+Carlos : 250.0
+Carlos : 300.0
+Carlos : 350.0
+Carlos : 400.0
+Carlos : 450.0
+Carlos : 500.0
+
+CUENTA DE Laura
+Laura : 400.0
+Laura : 450.0
+Laura : 500.0
+
+Carlos necesito 6 meses
+Laura necesito 3 meses
