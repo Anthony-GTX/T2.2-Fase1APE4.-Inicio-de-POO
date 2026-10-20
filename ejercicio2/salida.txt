@@ -1,0 +1,13 @@
+PRODUCTOS
+Cuaderno : 1.5
+Lapiz : 0.5
+Mochila : 25.0
+Borrador : 0.75
+
+DESPUES DE LA VENTA
+Cuaderno : 1.5 Reponer
+Lapiz : 0.5
+Mochila : 25.0 Reponer
+Borrador : 0.75
+
+Valor total del inventario: 97.0
