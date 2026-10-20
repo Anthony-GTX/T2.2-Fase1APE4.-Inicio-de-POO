@@ -1,0 +1,7 @@
+1 public class Estudiante {
+2   String nombre;
+3   double nota1;
+4   double nota2;
+5   double nota3;
+6   double promedio;
+7 }
